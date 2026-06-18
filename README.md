@@ -32,7 +32,7 @@ top-performing products, and key markets.
 *Shows the revenue share of the top ten purchasing countries. The **USA** leads by a massive margin, with **Spain** and **France** securing the second and third positions.*
 
 ### 4. Deal Size Distribution
-![Deal Size](Deal_Size_Distribution.png)
+![Deal Size](Deal_Size_Distribution.png) 
 *Represents the count of orders grouped by transaction size. **Medium-sized deals** are the most frequent order type, followed closely by **Small** deals, while **Large** deals are relatively rare.*
 
 ---
