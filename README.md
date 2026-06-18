@@ -51,7 +51,7 @@ top-performing products, and key markets.
 
 ## 🚀 How to Run
 ```bash
-pip install pandas matplotlib seaborn jupyter
+pip install -r requirements.txt
 jupyter notebook Sales_EDA.ipynb
 ```
 
