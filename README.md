@@ -20,7 +20,7 @@ top-performing products, and key markets.
 ## 📊 Visualizations
 
 ### 1. Total Sales by Product Line
-![Sales by Product](Sales_By_ProductLine.png)
+![Sales by Product](Sales_By_Product_Line.png)
 
 ### 2. Monthly Sales Trend
 ![Monthly Trend](Monthly_Sales_Trend.png)
