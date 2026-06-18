@@ -38,10 +38,10 @@ top-performing products, and key markets.
 |------|-------------|
 | `Sales_EDA.ipynb` | Main Jupyter Notebook |
 | `sales_data_sample.csv` | Raw dataset |
-| `sales_by_product.png` | Product line chart |
-| `monthly_trend.png` | Monthly trend chart |
-| `country_sales.png` | Country-wise sales chart |
-| `deal_size.png` | Deal size distribution |
+| `Sales_By_ProductLine.png` | Product line chart |
+| `Monthly_Sales_Trend.png` | Monthly trend chart |
+| `Top_10_Countries_by_Sales.png` | Country-wise sales chart |
+| `Deal_Size_Distribution.png` | Deal size distribution |
 
 ---
 
@@ -54,4 +54,4 @@ jupyter notebook Sales_EDA.ipynb
 ---
 
 ## 👤 Author
-Your Name | B.Tech CSE | [LinkedIn](your-linkedin-url) | [GitHub](your-github-url)
+Devendra Kota Subhash Unnamatla | B.Tech CSE | [LinkedIn](https://www.linkedin.com/in/devendra-6b267a258/) | [GitHub](https://github.com/subhash068/)
