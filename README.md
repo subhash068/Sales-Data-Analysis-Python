@@ -20,16 +20,16 @@ top-performing products, and key markets.
 ## 📊 Visualizations
 
 ### 1. Total Sales by Product Line
-![Sales by Product](sales_by_product.png)
+![Sales by Product](Sales_By_ProductLine.png)
 
 ### 2. Monthly Sales Trend
-![Monthly Trend](monthly_trend.png)
+![Monthly Trend](Monthly_Sales_Trend.png)
 
 ### 3. Top 10 Countries by Sales
-![Country Sales](country_sales.png)
+![Country Sales](Top_10_Countries_by_Sales.png)
 
 ### 4. Deal Size Distribution
-![Deal Size](deal_size.png)
+![Deal Size](Deal_Size_Distribution.png)
 
 ---
 
